@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_sketch">Добавить</string>
+    <string name="select_image_contentdescription">Select image</string>
+    <string name="create_sketch">Создать эскиз</string>
+    <string name="tattoo_name">Наименование тату*</string>
+    <string name="tattoo_description">Подробное описание татуировки</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="list_articles_header">Список статей</string>
+    <string name="article_contentdescription">Article</string>
+</resources>

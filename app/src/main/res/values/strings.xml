@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TattooShaman Studio</string>
+    <string name="main_header">Тату-студия Алекса Шамана</string>
+    <string name="popular_categories">Популярные категории</string>
+    <string name="popular_articles">Популярные статьи</string>
+    <string name="category_contentdescription">Category</string>
+    <string name="catalog">Catalog</string>
+    <string name="articles">Articles</string>
+    <string name="sketches">Sketches</string>
+    <string name="main">Main</string>
+</resources>

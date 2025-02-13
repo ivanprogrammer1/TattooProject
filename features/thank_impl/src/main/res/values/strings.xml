@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="thanks_text">Спасибо за заявку, мы с вами обязательно свяжемся!</string>
+    <string name="move_to_main">На главную</string>
+</resources>

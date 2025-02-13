@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tattto_contentdescription">Tattto</string>
+    <string name="send_form">Отправить заявку</string>
+    <string name="your_name">Как к вам обращаться</string>
+    <string name="input_yout_contact">Укажите, куда вам писать (Телефон/Telegram)</string>
+</resources>

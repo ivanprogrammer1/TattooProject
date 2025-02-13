@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#GRADLE_LOCAL_JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/core" />
+            <option value="$PROJECT_DIR$/data" />
+            <option value="$PROJECT_DIR$/domain" />
+            <option value="$PROJECT_DIR$/features" />
+            <option value="$PROJECT_DIR$/features/article_detail_api" />
+            <option value="$PROJECT_DIR$/features/article_detail_impl" />
+            <option value="$PROJECT_DIR$/features/articles_api" />
+            <option value="$PROJECT_DIR$/features/articles_impl" />
+            <option value="$PROJECT_DIR$/features/catalog_api" />
+            <option value="$PROJECT_DIR$/features/catalog_impl" />
+            <option value="$PROJECT_DIR$/features/form_api" />
+            <option value="$PROJECT_DIR$/features/form_impl" />
+            <option value="$PROJECT_DIR$/features/sketch_api" />
+            <option value="$PROJECT_DIR$/features/sketch_impl" />
+            <option value="$PROJECT_DIR$/features/tattoo_detail_api" />
+            <option value="$PROJECT_DIR$/features/tattoo_detail_impl" />
+            <option value="$PROJECT_DIR$/features/thank_api" />
+            <option value="$PROJECT_DIR$/features/thank_impl" />
+          </set>
+        </option>
+        <option name="resolveExternalAnnotations" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="select_availiable_date">Выберите удобную дату</string>
+    <string name="cancel">Отменить</string>
+    <string name="Accept">Подтвердить</string>
+</resources>
